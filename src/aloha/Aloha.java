@@ -16,6 +16,7 @@ public class Aloha {
      */
     public static void main(String[] args) {
         // TaaaaaaODO code application logic here
+        System.out.println("Bonjour toi");
     }
     
 }
